@@ -1,0 +1,20 @@
+{
+  "name": "termola",
+  "version": "0.0.1",
+  "description": "A blazingly average terminal logger.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "node ./test/basic.ts"
+  },
+  "keywords": [
+    "terminal",
+    "console",
+    "cli"
+  ],
+  "author": "justboereh",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^5.2.2"
+  }
+}
